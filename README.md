@@ -1,5 +1,5 @@
 # Marcus Academy
-A UI do projeto já está pronta, agora só falta passar tudo para HTML/CSS
+A UI do projeto já está pronta, agora só falta passar tudo para HTML/CSS <br>
 Poderá ver o prototipo <a href="https://www.figma.com/file/3Ne13BQdG51KlMuYEfYMDy/Primeira-Interface-no-Figma?node-id=0%3A1">neste link do figma</a>.<br>
 ## Preview
 <img src="./academy1.png"></img>
